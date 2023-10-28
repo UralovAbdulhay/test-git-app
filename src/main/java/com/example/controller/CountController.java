@@ -11,7 +11,6 @@ public class CountController {
     private final CounterRepository repository;
     //there
     //hill
-    //hj
 
     public CountController(CounterRepository repository) {
         this.repository = repository;
